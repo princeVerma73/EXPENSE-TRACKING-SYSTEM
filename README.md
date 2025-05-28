@@ -7,20 +7,12 @@
 ## Project Structure
 
 expense-tracking-system/
-│
-├── frontend/         # Streamlit-based UI
-│   └── app.py
-│
-├── backend/          # FastAPI backend logic
-│   └── server.py   
-│
-├── tests/            # Unit and integration tests
-|                     # Contains the test cases for both frontend and backend.
-│
-├── requirements.txt  # All required dependencies
-|                     # Lists the required Python packages.
 |
-└── README.md         # Project documentation (this file)
+- **frontend/**: Streamlit-based UI (app.py)
+- **backend/**: FastAPI backend logic(server.py)
+- **tests/**: Contains the test cases for both frontend and backend.
+- **requirements.txt**: Lists the required Python packages.
+- **README.md**: Provides an overview and instructions for the project.
 
 
 ## Setup Instructions
